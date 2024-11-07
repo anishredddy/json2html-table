@@ -16,4 +16,4 @@ export default function json2html(data) {
     html += `</tbody></table>`;
     
     return html;
-  }
+}
